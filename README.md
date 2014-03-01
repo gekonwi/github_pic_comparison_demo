@@ -9,4 +9,4 @@ if you change a picture (edit it or generate a new version and store it under th
 2.  a vertical line which can be swiped horizontally to transform the previous version into the new one (called Swipe - my favorite)
 3.  a slider which fades between the previous and the current version (called: Onion Skin)
 
-Have a look at [this commit](https://github.com/user/repo/blob/branch/other_file.md) to see what I mean.
+Have a look at [this commit](https://github.com/gekonwi/github_pic_comparison_demo/commit/b1eea75dd0b6837b6662a09304ac605a08fbc632) to see what I mean.
