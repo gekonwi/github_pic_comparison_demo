@@ -3,6 +3,8 @@ github picture comparison demo
 
 just discovered GitHub's awesome picture comparisons functions and wanted to share
 
+![screenshot](https://raw.github.com/gekonwi/github_pic_comparison_demo/master/comparison%20functions.png)
+
 if you change a picture (edit it or generate a new version and store it under the same name in the same directory) GitHub offers three different ways to see this change in the commit:
 
 1.  simply have the previous and the current picture verson side by side (default)
